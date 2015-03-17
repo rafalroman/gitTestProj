@@ -4,3 +4,4 @@ console.log('hello world');
 //dalej buduje b2
 //kolejny dla b2
 //po modifikacji master
+//po modifikacji master 2
